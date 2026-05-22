@@ -27,23 +27,6 @@ From legal technology and AI systems to infrastructure and SaaS platforms, Veros
 </p>
 ```
 
-```bash
-$ whoami
-
-Veros Labs
-
-$ mission
-
-Build software that solves real problems
-
-$ current_projects
-
-> Vero
-> Vero Books
-> TrackPoint
-> AI Systems
-
-$ status
-
-Building...
-```
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Build+Deliberately.;Ship+Relentlessly.;Legal+Tech+%7C+AI+%7C+Cloud+Systems.;Software+that+outlasts+trends." />
+</p>
